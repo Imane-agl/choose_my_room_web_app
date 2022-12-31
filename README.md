@@ -1,5 +1,5 @@
 # ChooseYourRoom
-Creer une application web où vous pouvew choisir votre chambre Hotel selon vos propres critères
+Creer une application web où vous pouvez choisir votre chambre Hotel selon vos propres critères
 
 
 # Getting Started with Create React App
